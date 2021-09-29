@@ -18,7 +18,7 @@ networks; Ads automated bidding strategies; <br>
 - **Optimization**: Distributed optimization with low communication budget; Nonconvex optimization in min-max and bilevel settings; Efficient algorithms in solving linearly constrained problems.
       
 
-News
+-News
 ======
 
 - **July 2021** Our paper [Understanding Limitation of Two Symmetrized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366) is accepted to SIAM Journal on Optimization, 2021!
