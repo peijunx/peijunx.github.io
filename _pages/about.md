@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year Ph.D. student in [Department of Industrial and Enterprise Systems Engineering(ISE)](https://ise.illinois.edu/) of [University of Illinois at Urbana-Champaign](https://illinois.edu/), fortunately advised by [Prof. Ruoyu Sun](https://ruoyus.github.io/).  <br>
+I am a fifth year Ph.D. student in [Department of Industrial and Enterprise Systems Engineering (ISE)](https://ise.illinois.edu/) of [University of Illinois at Urbana-Champaign](https://illinois.edu/), fortunately advised by [Prof. Ruoyu Sun](https://ruoyus.github.io/).  <br>
 
 I obtained my bachelor's degrees in General Mathematics from [University of California, Davis](https://www.ucdavis.edu/) in 2017. <br>
 
