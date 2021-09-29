@@ -22,4 +22,4 @@ Jiawei Zhang, **Peijun Xiao**, Ruoyu Sun, and Zhi-Quan Luo <br>
 
 [**DEED: A General Quantization Scheme for Communication Efficiency in Bits**](https://arxiv.org/abs/2006.11401) <br>
 Tian Ye, **Peijun Xiao**, and Ruoyu Sun <br>
-Preprint <br>
+Preprint, a new version is coming. <br>
